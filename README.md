@@ -1,5 +1,6 @@
 # Kodluyoruz İlk Repo
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. 
+İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
 ![2022-09-01 (2)](https://user-images.githubusercontent.com/96635423/187797050-2394b774-e54f-4aeb-a08f-301ab44a7b86.png)
 
 ## Installation 
@@ -13,8 +14,8 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-#Contributing
+# Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-#License
+# License
 [MIT] (https://choosealicense.com/licenses/mit/)
